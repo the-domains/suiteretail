@@ -1,0 +1,14 @@
+layout_spectrum: 0.3040621
+typography_spectrum: 0.6600956
+color:
+  saturation: 0.306722
+  lightness: 0.6539544
+  brandStrength: 0.6481481
+  brandColors:
+    - '#161630'
+    - '#1F3880'
+    - '#908191'
+    - '#FFFFFC'
+    - '#E1CEBC'
+  rhythmicContrast: 0.1132911
+name: SuiteRetail
