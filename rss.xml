@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[POS Solutions for NetSuite and Salesforce]]></title>
+        <description><![CDATA[POS Solutions for NetSuite and Salesforce]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Feb 2016 15:51:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Live on SuitePOS]]></title>
+            <description><![CDATA[<article><h1>Live on SuitePOS</h1><p>The world’s largest confectionary emporium and lifestyle brand goes live on SuiteRetail’s SuitePOS for NetSuite and takes advantage of the fastest POS solution available for omnichannel retailers on NetSuite.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee9fcafe69cc25c62f3a3a5ea138d39aa73e6188.jpg"></article>]]></description>
+            <link>undefinedlive-on-suitepos/index.html</link>
+            <guid isPermaLink="false">d291ae9a-328f-4377-bb05-070eca16fc07</guid>
+            <pubDate>Sat, 20 Feb 2016 15:51:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
